@@ -1,0 +1,19 @@
+h1{
+  color: rgb(0, 58, 111);
+  text-align: center;
+  font-size: 50px;
+}
+
+button{
+  display: block;
+  margin: 0 auto;
+}
+
+.app_button {
+  float: left;
+}
+
+.app_img {
+  width: 50px;
+  height: 60px;
+}
