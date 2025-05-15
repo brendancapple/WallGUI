@@ -21,14 +21,14 @@ WallGUI is the Eel-based puesdo-OS for the Computer Science interactive display.
 ### Download Instructions
 
 #### Download WallGUI to a new Raspberry Pi
-1. Navigate to [WallGUI GitHub]()
+1. Navigate to [WallGUI GitHub](https://github.com/brendancapple/WallGUI/)
 2. Download source code into the `"~/Desktop/WallGUI"` folder or other desired directory
 3. Verify that all internal directories remain consistent and have the same local directories as on GitHub
 4. Open Terminal and run `pip install Eel`
 5. Run WallGUI to verify functionality
 
 #### Download WallGUI to a Raspberry Pi without a SenseHat
-1. Navigate to [WallGUI GitHub]()
+1. Navigate to [WallGUI GitHub](https://github.com/brendancapple/WallGUI/)
 2. Download source code into the `"~/Desktop/WallGUI"` folder or other desired directory
 3. Verify that all internal directories remain consistent
 4. Open `app.py` and set `const SENSE_HAT = False`
